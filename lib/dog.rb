@@ -10,5 +10,5 @@ end
 
 Doggo = Dog.new("Yeezy")
 puts Doggo.name
-Doggo.dog_name = "Alaxander"
+Doggo.this_dogs_name = "Alaxander"
 puts Doggo.name
