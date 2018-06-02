@@ -7,3 +7,6 @@ class Dog
         @this_dogs_name
     end
 end
+
+Doggo = Dog.new
+Doggo.name = "Yeezy"
