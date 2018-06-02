@@ -10,3 +10,6 @@ end
 
 Doggo = Dog.new
 Doggo.name = "Yeezy"
+puts Doggo.name
+Doggo.name = "Alaxander"
+puts Doggo.name
