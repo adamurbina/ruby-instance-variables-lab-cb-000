@@ -10,5 +10,5 @@ end
 
 Doggo = Dog.new("Yeezy")
 puts Doggo.name
-Doggo.instance_variable_set(:this_dogs_name = "Alaxander")
+Doggo.instance_variable_set(:this_dogs_name, "Alaxander")
 puts Doggo.name
